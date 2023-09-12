@@ -73,7 +73,7 @@
 
     </form>
 
-    <script>
+    <!-- <script>
     let averageElement = document.getElementById('average')
     let resultElement = document.getElementById('grade');
     averageElement.style.display = 'none';
@@ -89,7 +89,7 @@
     setTimeout(() => {
         submit.addEventListener('click', showAverageGrade)
     }, 8000);
-    </script>
+    </script> -->
 </body>
 
 </html>
